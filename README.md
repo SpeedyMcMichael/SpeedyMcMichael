@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SpeedyMcMichael
-- 👀 I’m interested in modding Minecraft
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on an actual good minecraft mod
-- 📫 How to reach me: Discord: speedymcmichael
-- 😄 Pronouns: any but it :3
-- ⚡ Fun fact: My name isn't based off the popular Youtuber SpeedMcqueen, it's just my Minecraft username. I just came up with it out of the blue.
+- 👀 I’m interested in coding whatever
+- 🌱 I’m currently learning Python and Frontend Stack
+- 💞️ I’m looking to collaborate on an actual good project
+- 📫 How to reach me: Discord: joyous.fart
+- 😄 Pronouns: he/she/they
+- ⚡ Fun fact: my favorite card in Clash Royale is the Mini Pekka
 
 <!---
 SpeedyMcMichael/SpeedyMcMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
