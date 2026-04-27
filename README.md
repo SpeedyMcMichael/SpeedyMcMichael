@@ -2,7 +2,9 @@ fucken uhhhh
 
 i like turtles
 
-idk man i use arch and like FOSS
+sometimes i program in low level systems languages (c or rust, never c++, maybe zig) because i hate myself
+
+meson > makefile because syntax and sometimes UX
 
 "this open issue taught me what FOSS was" ahh 💔
 <!---
