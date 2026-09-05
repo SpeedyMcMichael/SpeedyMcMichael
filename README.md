@@ -2,7 +2,7 @@ fucken uhhhh
 
 i like turtles
 
-sometimes i program in low level systems languages (c or rust, never c++, maybe zig) because i hate myself
+sometimes i program in low level systems languages (c or rust, probably never c++ due to tmp, maybe zig) because i hate myself
 
 meson > makefile because syntax and sometimes UX
 
